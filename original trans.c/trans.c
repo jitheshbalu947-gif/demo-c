@@ -360,4 +360,4 @@ void deleteRecord(FILE *fPtr)
 void clearInputBuffer(void)
 {
     while (getchar() != '\n');
-}
+} 
