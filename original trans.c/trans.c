@@ -359,5 +359,5 @@ void deleteRecord(FILE *fPtr)
 // clear invalid input buffer
 void clearInputBuffer(void)
 {
-    while (getchar() != '\n');
+    while (getchar() != '\n');   
 } 
